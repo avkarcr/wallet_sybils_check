@@ -20,6 +20,9 @@ This script reads two input files: one containing a list of wallet addresses and
 ### Example
 
 ```bash
-python main.py my_wallets.txt sybils_database.txt -o output.txt
-OR
 python main.py my_wallets.txt sybils_database.txt
+```
+OR
+```bash
+python main.py my_wallets.txt sybils_database.txt -o output.txt
+```
